@@ -1,5 +1,7 @@
 # 🧪 UnityAlchemyLab
 
+![Demo](./unityalchemylablogo.png)
+
 **Turning scripts into systems.**
 
 A development lab for crafting reusable Unity systems through experimentation — where gameplay mechanics, simulation logic, and tools are refined into clean, modular code.
